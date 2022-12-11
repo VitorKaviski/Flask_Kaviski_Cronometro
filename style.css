@@ -1,0 +1,32 @@
+* {
+   margin: 0;
+   padding: 0;
+ }
+ 
+ span{
+  font-size: 50pt;
+  font-weight: 700;
+  
+ }
+ 
+ .numbers{
+   padding: 50px;
+ }
+
+
+body,
+html {
+    width: 100vw;
+    height: 100vh;
+    background-color: #4375ff;
+      background: rgb(16, 113, 255);
+      background: linear-gradient(
+        0deg,
+        rgb(96, 153, 100) 0%,
+        rgb(55, 111, 200) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ 
